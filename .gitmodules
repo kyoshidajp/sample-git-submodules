@@ -1,0 +1,3 @@
+[submodule "sample-git-submodule"]
+	path = sample-git-submodule
+	url = git@github.com:kyoshidajp/sample-git-submodule.git
